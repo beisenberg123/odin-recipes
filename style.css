@@ -1,0 +1,33 @@
+h1 {
+    color:red;
+    background-color: lightgreen;
+}
+
+h2 {
+    text-align: center;
+    text-emphasis: bold;
+    font-family: sans-serif;
+}
+
+.firstpar
+.secondpar {
+    font-size: 28px;
+    text-emphasis: bold;
+   
+}
+
+.firstpar {
+    color: white;
+    background-color: black;
+}
+
+.secondpar {
+    text-align: center;
+}
+
+
+
+#firsting {
+    color: blue;
+    background-color: gray;
+}
